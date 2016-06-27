@@ -19,7 +19,7 @@
    </tr>
    <tr>
         <td><strong>Homepage:</strong></td>
-        <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json">https://github.com/auberginehill/list-my-apps-template-xml-json</a></td>
+        <td><a href="https://github.com/auberginehill/list-my-apps-template-json">https://github.com/auberginehill/list-my-apps-template-json</a></td>
    </tr>
    <tr>
         <td><strong>Version:</strong></td>
@@ -42,7 +42,7 @@
    </tr>
    <tr>
         <td><strong>Download:</strong></td>
-        <td>For instance <a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/file_footer.txt">parts</a>.</td>
+        <td>For instance <a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/file_footer.txt">parts</a>.</td>
    </tr>
 </table>
 
@@ -50,7 +50,7 @@
 
 #### Screenshot
 
-<img class="screenshot" title="screenshot" alt="screenshot" height="100%" width="100%" align="absmiddle" src="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/example.png">
+<img class="screenshot" title="screenshot" alt="screenshot" height="100%" width="100%" align="absmiddle" src="https://github.com/auberginehill/list-my-apps-template-json/blob/master/example.png">
 
 
 
@@ -76,19 +76,19 @@
                             <td><strong>Field in List My Apps' Template Editor</strong></td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/file_header.txt">file_header.txt</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/file_header.txt">file_header.txt</a></td>
                             <td>"List header, may be blank"</td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/body.txt">body.txt</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/body.txt">body.txt</a></td>
                             <td>"Item format, may not be blank"</td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/file_footer.txt">file_footer.txt</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/file_footer.txt">file_footer.txt</a></td>
                             <td>"List footer, may be blank"</td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/all_in_one.txt">all_in_one.txt</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/all_in_one.txt">all_in_one.txt</a></td>
                             <td>Contains all the above mentioned three parts in one file.</td>
                         </tr>
                     </table>
@@ -132,19 +132,19 @@
                                     <td><strong>Field in List My Apps' Template Editor</strong></td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/file_header.txt">file_header.txt</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/file_header.txt">file_header.txt</a></td>
                                     <td>"List header, may be blank"</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/body.txt">body.txt</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/body.txt">body.txt</a></td>
                                     <td>"Item format, may not be blank"</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/file_footer.txt">file_footer.txt</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/file_footer.txt">file_footer.txt</a></td>
                                     <td>"List footer, may be blank"</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/blob/master/all_in_one.txt">all_in_one.txt</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-json/blob/master/all_in_one.txt">all_in_one.txt</a></td>
                                     <td>Contains all the above mentioned three parts in one file.</td>
                                 </tr>
                             </table>
@@ -193,16 +193,16 @@
    <tr>
       <th><img class="emoji" title="contributing" alt="contributing" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f33f.png"></th>
       <td><strong>Bugs:</strong></td>
-      <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/issues">Submit bugs</a> and help us verify fixes.</td>
+      <td><a href="https://github.com/auberginehill/list-my-apps-template-json/issues">Submit bugs</a> and help us verify fixes.</td>
    </tr> 
    <tr>
       <td rowspan="2"></td>
       <td><strong>Feature Requests:</strong></td>
-      <td>Feature request can be submitted by <a href="https://github.com/auberginehill/list-my-apps-template-xml-json/issues">creating an Issue</a>.</td>
+      <td>Feature request can be submitted by <a href="https://github.com/auberginehill/list-my-apps-template-json/issues">creating an Issue</a>.</td>
    </tr> 
    <tr>
       <td><strong>Edit Source Files:</strong></td>
-      <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json/pulls">Submit pull requests</a> for bug fixes and features and discuss existing proposals.</td>
+      <td><a href="https://github.com/auberginehill/list-my-apps-template-json/pulls">Submit pull requests</a> for bug fixes and features and discuss existing proposals.</td>
    </tr>
  </table>   
 
@@ -213,7 +213,7 @@
 <table>
    <tr>
         <th><img class="emoji" title="www" alt="www" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f310.png"></th>
-        <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-json">Template Homepage</a></td>
+        <td><a href="https://github.com/auberginehill/list-my-apps-template-json">Template Homepage</a></td>
    </tr>
    <tr>
         <td rowspan="8"></td>
