@@ -88,7 +88,7 @@ File Footer (file_footer.txt):
         "ListAppStoreLink": "https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps",
         "ListAppHomepageLink": "http://www.onyxbits.de/listmyapps",
         "ListAppDiscussionThreadLink": "http://forum.xda-developers.com/showthread.php?t=2460266",
-        "TemplateSource": "http://pastebin.com/viigvZeN",
+        "TemplateSource": "https://github.com/auberginehill/list-my-apps-template-json",
         "ListGenerated_2": "${now}",
         "TotalNumberOfInstalledApps_2": "${count}"
     }
