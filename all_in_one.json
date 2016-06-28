@@ -1,5 +1,5 @@
 {
-    "_comment": "File Header (file_header.txt)",
+    "_comment_1": "File Header (file_header.txt)",
     "meta": {
         "ListGenerated": "${now}",
         "TotalNumberOfInstalledApps": "${count}"
@@ -20,7 +20,7 @@
 
 
 
-    "_comment": "Body (body.txt)",
+    "_comment_2": "Body (body.txt)",
     "App": {
         "@id": "${packagename}",
         "Name": "${displayname}",
@@ -39,7 +39,7 @@
         "www": "${source}",
         "GoogleStore": "https://play.google.com/store/apps/details?id=${packagename}",
         "SearchGoogle": "https://www.google.com/search?q=${packagename}",
-        "DuckDuckGo": "https://duckduckgo.com/?q=${packagename}+\'${displayname}\'"
+        "DuckDuckGo": "https://duckduckgo.com/?q=${packagename}+\"${displayname}\""
     },
 
 
@@ -58,7 +58,7 @@
 
 
     
-    "_comment": "File Footer (file_footer.txt)",
+    "_comment_3": "File Footer (file_footer.txt)",
     "Descriptions": {
         "Description_Comment": "Whatever was entered as a comment in the \"Annotations\" screen.",
         "Description_DataDirectory": "Directory that was assigned to the app by the Android system for storing it's private files.",
